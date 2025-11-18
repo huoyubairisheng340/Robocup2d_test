@@ -17,8 +17,8 @@
 
 ---
 
-1. 访问 GitHub 仓库 [https://github.com/huoyubairisheng340/Robocup2d_test](https://github.com/huoyubairisheng340/Robocup2d_test)，并执行 **fork** 操作，将仓库克隆至本地环境。  
-2. 在本地环境中，找到并编辑 `readme.md` 文档(注意是任务提交处的readme文档，不是这个)，添加任意一部影视作品内容及海报图片。编辑时请注重文档的结构性和美观性。  
+1. 访问 GitHub 仓库 [https://github.com/huoyubairisheng340/Robocup2d_test](https://github.com/huoyubairisheng340/Robocup2d_test)]，并执行 **fork** 操作，将仓库克隆至本地环境。  
+2. 在本地环境中，找到并编辑 `readme.md` 文档，添加任意一部影视作品内容及海报图片。编辑时请注重文档的结构性和美观性。  
 3. 编辑完成后，将文档重命名为“学号+姓名+name.md”的格式，其中 **name** 为所选作品名称。 
 4. 将修改后的文档提交至您的本地 Git 仓库，并推送至远程 GitHub 仓库。  
 
